@@ -1,6 +1,3 @@
-# rep_1 só testando as funcionalidades
-## não tem nada aqui kkk 
-´´´
-blablabla
-´´´
- 
+#Calculadora
+##Calculadora com radiciação e potenciação
+Segunda versão da calculadora
