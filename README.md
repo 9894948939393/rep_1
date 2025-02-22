@@ -1,3 +1,6 @@
-# rep_1 só testando as funcionalidades
-## não tem nada aqui kkk 
+# rep_1 só guardando uns projeotos
+## não tem nada demas aqui kkk 
+ Índice:<br>
+1-Calculadora 2.0<br>
+2-Primeiro Scrapy
  
