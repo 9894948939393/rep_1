@@ -1,3 +1,3 @@
-#Calculadora<br>
-##Calculadora com radiciação e potenciação<br>
+# Calculadora
+## Calculadora com radiciação e potenciação
 Segunda versão da calculadora
