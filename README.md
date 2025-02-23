@@ -1,3 +1,2 @@
 # Calculadora
-## Calculadora com radiciação e potenciação
-Segunda versão da calculadora
+## Conta quanto dinheiro em notas vc tem
