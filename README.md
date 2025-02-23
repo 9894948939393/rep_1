@@ -1,2 +1,2 @@
-# Contador de notas
-## Conta quanto dinheiro em notas vc tem
+#Contador de notas
+##Conta o  valor que vc tem em notas
