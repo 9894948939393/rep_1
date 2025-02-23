@@ -1,4 +1,4 @@
-# rep_1 só guardando uns projeotos
+# rep_1 só guardando uns projetos
 ## não tem nada demas aqui kkk 
  Índice:<br>
 1-Calculadora 2.0<br>
